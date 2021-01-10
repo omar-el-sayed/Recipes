@@ -1,0 +1,52 @@
+body {
+    font-family: 'segoe ui light';
+}
+
+header {
+    background-image: url('../images/mainBg.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+nav {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.search {
+    top: 85%;
+}
+
+.color-mine {
+    color: #ff7d5f !important;
+}
+
+.rounded-mine {
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+
+.btn-mine {
+    background-color: #ff7d5f;
+}
+
+#recipesSearch {
+    background: #faf3f1 url('../images/1.png');
+}
+
+.category {
+    background-image: url('../images/category-bg.png');
+    background-size: cover;
+    background-position: center center;
+}
+
+.recipe {
+    cursor: pointer;
+}
+
+.recipe img {
+    height: 200px !important;
+}
